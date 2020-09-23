@@ -1,4 +1,4 @@
-# QuizApp Overview and Deployment Guide
+# QuizApp Overview and Deployment Guide.
 
 **Quiz App** is a gamification based PowerApp hosted on Microsoft Teams. It is designed to test an end user’s knowledge on Microsoft Teams, thereby facilitating learning and it also helps in providing insights to the organization on areas to drive further awareness. The quiz, pinned on Microsoft Teams, can be easily accessible from any device at any time.
 
